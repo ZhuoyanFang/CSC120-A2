@@ -1,12 +1,12 @@
 """
    Filename: computer.py
-Description: It stores computer's attributes like description, processor  type, hard drive capacity, memory, operating system, year made and price.
+Description: an object-oriented code to store and update the information of the computer. It stores computer's attributes like description, processor type, hard drive capacity, memory, operating system, year made and price and also defines methods of updating the price and the OS of the computers.
      Author: Selina Fang
        Date: Sep 16 2025
 """
 class Computer:
     """
-    It represents a computer in the resale shop. It can store attributes like description, processor  type, hard drive capacity, memory, operating system, year made and price and also defines methods of updating the price and the OS of the computers.
+    It represents a computer in the resale shop. It can store attributes like description, processor type, hard drive capacity, memory, operating system, year made and price.
     """
     # What attributes will it need?
     # The attributes it needs are description, processor type, hard drive capacity, memory, operating system, year made and price.

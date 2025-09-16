@@ -1,6 +1,6 @@
 """
    Filename: oo_resale_shop.py
-Description: an object-oriented code to run computer resale shops, it can buy, sell and refurbish the computers in the inventory
+Description: an object-oriented code to run computer resale shops. It can buy, sell and refurbish the computers in the inventory.
      Author: Selina Fang
        Date: Sep 16 2025
 """
