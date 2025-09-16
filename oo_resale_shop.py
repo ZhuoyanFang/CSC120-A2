@@ -6,7 +6,7 @@ class ResaleShop:
     It represents a resale shop, and it has an inventory that records that buying, selling and refurbishing of the computers.
     """
     # What attributes will it need?
-    # The attributes it need is the shop itself.
+    # The attributes it need is the inventory.
 
     # How will you set up your constructor?
     # Remember: in python, all constructors have the same name (__init__)
